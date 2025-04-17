@@ -1,0 +1,25 @@
+.home-page-search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    background-color: #ffffff;
+}
+
+.home-page-search-bar form {
+    width: 90%;
+}
+
+.home-page-search-bar form input {
+    width: 100%;
+}   
+
+.home-page-search-bar form button {
+    width: 100px;
+}
+
+
+
+
+
+
