@@ -1,9 +1,9 @@
 import { create } from 'zustand'
 
-const useIsLogInStore = create((set) => ({
+export const useIsLogInStore = create((set) => ({
     isLogIn: false,
     setIsLogIn: (isLogIn) => set({ isLogIn }),
 }))
 
-export default useIsLogInStore
+
 
